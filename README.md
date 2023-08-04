@@ -10,13 +10,13 @@ Code scripts:
 
 -SST/30YrExplore.qmd is complete SST data processing and Heat Wave Analysis
 
--SST/anomalies Final.qmd is for obtaining SST anomalies map
+-SST/anomalies Final.qmd is used to obtaining SST anomalies map
 
--Chla/Chla_analysis_new.qmd is complete chlorophyll a data processing and timeseries plots
+-Chla/Chla_analysis_new.qmd is complete chlorophyll-a data processing and timeseries plots
 
--Chemicals/Chemical.qmd is used to extract data from the CSV downloaded from AODN and plotted and analysis of subsurface chlorophyll a and chemicals data
+-Chemicals/Chemical.qmd is used to extract data from the CSV file and plotting sub-surface chlorophyll-a and chemicals data
 
--Chemicals/RefinedPlots.qmd creates the time trend of the stated chemicals and anomaly plots over the MHW event at depth of 20m and 80m for dissolved oxygen, silicate, phosphate, nitrate, nitrite, and salinity measure on Maria Island NRS
+-Chemicals/RefinedPlots.qmd creates the time trend of the stated chemicals and anomaly plots over the MHW event at depth of 20m and 80m for dissolved oxygen, silicate, phosphate, nitrate and nitrite measured on Maria Island NRS
 
 
 Dataset links:
