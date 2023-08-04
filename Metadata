@@ -1,0 +1,31 @@
+Datasets acquired from AODN portal (available at www.aodn.org.au)
+
+
+
+Physical variables (Data extracted from "IMOS - SRS - SST - L3S - Single Sensor - 1 day - night time - Australia"):
+
+SST = Sea Surface Temperature [°C]
+lon = Longitude [°E]
+lat = Latitude [°N]
+time = Time [days] (since 1990)
+
+
+Biological variables (Data extracted from "IMOS - SRS - MODIS - 01 day - Chlorophyll-a concentration (OC3 model)"):
+
+chl_oc3 = Chlorophyll-a concentration [g/m3]
+longitude = Longitude [°E]
+latitude = Latitude [°N]
+time = Time [days] (since 1990)
+
+
+Chemical variables (Data exctracted from "IMOS - combined geochemical parameters (reference stations)"):
+
+lon = Longitude [°E]
+lat = Latitude [°N]
+SampleTime_Local = Local time (Maria Island, Tasmania) at which sample was taken
+SampleDepth = Depth at which sample was taken [m]
+SampleID = Sample reference number
+Oxygen_umolL = Oxygen concentration [umol/L]
+Nitrate_umolL = Nitrate concentration [umol/L]
+Phosphate_umolL = Phosphate concentration [umol/L]
+Silicate_umolL = Silicate concentration [umol/L]
