@@ -2,7 +2,7 @@
 Olivier Pastore Repository for 9041 Final Report
 
 
-SRS SST data from AODN, cleaned, processed, and created a spatial timeseries average. This timeseries can then be run through HeatWaveR for event identification and graphical presentation. Analysis and identification of 2021/2022 MHW in Tasman Sea off NSW and off Tasmania using 30 year dataset (1992-present).
+SRS SST data from AODN, cleaned, processed, and created a spatial timeseries average. This timeseries can then be run through HeatWaveR for event identification and graphical presentation. Analysis and identification of 2021/2022 MHW in Tasman Sea off NSW and off Tasmania using 30 year dataset (1992-present). (Note that the chemicals dataset can be found in Chemicals/Data in this repository.)
 
 Code scripts:
 
