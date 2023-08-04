@@ -17,3 +17,10 @@ Code scripts:
 -Chemicals/Chemical.qmd is used to extract data from the CSV downloaded from AODN and plotted and analysis of subsurface chlorophyll a and chemicals data
 
 -Chemicals/RefinedPlots.qmd creates the time trend of the stated chemicals and anomaly plots over the MHW event at depth of 20m and 80m for dissolved oxygen, silicate, phosphate, nitrate, nitrite, and salinity measure on Maria Island NRS
+
+
+Dataset links:
+
+SST: https://unsw-my.sharepoint.com/:f:/g/personal/z5493084_ad_unsw_edu_au/EsTy-D-ajgVJlzuOYMLiRIkBoMkyvhI-Z8tUenLdzRcjRw?e=uZN7e5
+
+Chla: https://unsw-my.sharepoint.com/:f:/g/personal/z5452002_ad_unsw_edu_au/EjAj5ZTGZWZJlXj3qS6A-mUBjG_q8bAr5A2E4gA57YDRsw?e=v1Afwf
