@@ -7,8 +7,13 @@ SRS SST data from AODN, cleaned, processed, and created a spatial timeseries ave
 Code scripts:
 
 -MapGraphics is to obtain a map with the Lat/Lon boxes used for analysis
+
 -SST/30YrExplore.qmd is complete SST data processing and Heat Wave Analysis
+
 -SST/anomalies Final.qmd is for obtaining SST anomalies map
+
 -Chla/Chla_analysis_new.qmd is complete chlorophyll a data processing and timeseries plots
--Chemicals/Chemical.qmd is used to extract data from the CSV downloaded from AODN and plotted and analysis of subsurface chlorophyll a and chemicals data.
+
+-Chemicals/Chemical.qmd is used to extract data from the CSV downloaded from AODN and plotted and analysis of subsurface chlorophyll a and chemicals data
+
 -Chemicals/RefinedPlots.qmd creates the time trend of the stated chemicals and anomaly plots over the MHW event at depth of 20m and 80m for dissolved oxygen, silicate, phosphate, nitrate, nitrite, and salinity measure on Maria Island NRS
