@@ -1,5 +1,5 @@
 ---
-title: "dear god please release me from suffering"
+title: "SST anomalies map"
 format: html
 editor: visual
 ---
