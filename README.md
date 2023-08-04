@@ -21,6 +21,6 @@ Code scripts:
 
 Dataset links:
 
-SST: https://unsw-my.sharepoint.com/:f:/g/personal/z5493084_ad_unsw_edu_au/
+SST: https://unsw-my.sharepoint.com/:f:/g/personal/z5493084_ad_unsw_edu_au/EsTy-D-ajgVJlzuOYMLiRIkBoMkyvhI-Z8tUenLdzRcjRw?e=Etv5LB
 
-Chla: https://unsw-my.sharepoint.com/:f:/g/personal/z5452002_ad_unsw_edu_au/
+Chla: https://unsw-my.sharepoint.com/:f:/g/personal/z5452002_ad_unsw_edu_au/EjAj5ZTGZWZJlXj3qS6A-mUBjG_q8bAr5A2E4gA57YDRsw?e=pHMro3
